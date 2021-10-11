@@ -4,7 +4,7 @@ This article aims to provide guidance on solving the SQL problems available on H
 
   * The author uses MySQL Workbench.
   
-Delroy is a Master's Candidate with Xiamen University majoring in Quantitative Economics, an experienced user of `R Programming`, `MySQL`, as well as other data analytical tools. He's most interested with topics related to applied econometrics as well as Machine Learning algorithm! Despite having firm technical background, Delroy also prioritizes to apply these skills to solve real world problem! 
+Delroy is a Master's Candidate with Xiamen University majoring in Quantitative Economics, an experienced user of `R Programming`, `MySQL`, as well as other data analytical tools. He's most interested with topics related to applied econometrics as well as Machine Learning algorithm! Despite having firm technical background, Delroy also prioritizes to apply these skills to solve real world problems! 
 
 Delroy can be reached out on:
  
